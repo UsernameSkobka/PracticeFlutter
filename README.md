@@ -1,4 +1,5 @@
 # PracticeFlutter
 
 ```markdown
-<img src="screenshots/имя_файла.png" width="200">
+<img src="itogtestcut.jpg">
+<img src="oprosnikcut.jpg">
